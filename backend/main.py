@@ -14,6 +14,7 @@ from openai import OpenAI
 #test in smit branch
 #hiii added to deep copy the vector store
 #added in smit-test branch
+#added in smittest branch for testing
 
 load_dotenv()
 
