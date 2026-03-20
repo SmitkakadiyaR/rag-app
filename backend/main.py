@@ -13,6 +13,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from openai import OpenAI
 #test in smit branch
 #hiii added to deep copy the vector store
+#added in smit-test branch
 
 load_dotenv()
 
