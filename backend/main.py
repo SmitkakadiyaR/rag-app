@@ -11,6 +11,7 @@ from langchain_community.vectorstores import FAISS
 
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from openai import OpenAI
+#test in smit branch
 #hiii added to deep copy the vector store
 
 load_dotenv()
